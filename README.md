@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivex333&label=Profile%20views&color=0e75b6&style=flat" alt="olivex333" /> </p>
 
-- 🔭 I’m currently working on **AudioHub, MyTaskManager**
+- 🔭 I’m currently working on **Aurum**
 
-- 🌱 I’m currently learning **Flask, ASP.NET, Laravel,**
+- 🌱 I’m currently learning **Kotlin, PostgreSQL**
 
 - 📫 How to reach me **m00nminecraftnet@gmail.com**
 
